@@ -3,7 +3,9 @@
 * {
   box-sizing: border-box;
 }
-
+.centered{
+  margin:auto;
+}
 body {
   padding: 0;
   margin: 0;
